@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27850263291",
+    "firebase_url": "https://fir-login-abc6f.firebaseio.com",
+    "project_id": "fir-login-abc6f",
+    "storage_bucket": "fir-login-abc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27850263291:android:b544747613519ae9e3fe5e",
+        "android_client_info": {
+          "package_name": "com.kookminuniv.loginstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27850263291-jpmufj572sumftekv34jg4ep525e5jmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQeVGvz2UGXCcwcZ-Pd8120P52lIbDD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27850263291-jpmufj572sumftekv34jg4ep525e5jmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
