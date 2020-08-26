@@ -1,2 +1,3 @@
 # flutter_weatherInfo
-singUp functional implementation and get city weather information using openAPI
+- login and signup functional implementation using firebase
+- get city weather information using openAPI
